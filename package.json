@@ -1,0 +1,22 @@
+{
+  "name": "youtube-api",
+  "version": "1.0.0",
+  "description": "YouTube Video View Counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christooma/youtube-video-view-counter.git"
+  },
+  "keywords": [
+    "YouTube"
+  ],
+  "author": "Chris Toomajanian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christooma/youtube-video-view-counter/issues"
+  },
+  "homepage": "https://github.com/christooma/youtube-video-view-counter#readme"
+}
